@@ -1,9 +1,8 @@
 # Deep Learning For Mobile Health Lab
-
+<!-- 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FDL4mHealth&count_bg=%2325DAA4&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-<!-- ![GitHub Repo stars](https://img.shields.io/github/stars/DL4mHealth/Contrastive-Learning-in-Medical-Time-Series-Survey?style=social)--->
-
-<!--![visitors](https://visitor-badge.glitch.me/badge?page_id=DL4mHealth&left_color=gray&right_color=blue)--->
+--->
+<!-- ![GitHub Repo stars](https://img.shields.io/github/stars/DL4mHealth)--->
                 
 
 <!-- We can call this this lab as **DEGREE** (Deep lEarninG foR mobilE hEalth). --->
